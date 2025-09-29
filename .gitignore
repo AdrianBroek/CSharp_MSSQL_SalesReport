@@ -1,0 +1,10 @@
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore private config
+appsettings.Development.json
